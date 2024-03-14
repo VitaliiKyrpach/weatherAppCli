@@ -1,0 +1,20 @@
+{
+  "name": "weather_info",
+  "version": "1.0.0",
+  "description": "weather api cli app",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "weather",
+    "backend",
+    "nodejs"
+  ],
+  "author": "vitalii",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "chalk": "^4.1.2"
+  }
+}
